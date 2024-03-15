@@ -1,16 +1,45 @@
-[![](https://visitcount.itsvg.in/api?id=NarenAnandan&icon=0&color=0)](https://visitcount.itsvg.in)
+### Hey, I'm Naren Anandan 👋🏽  
 
-## 💫 About Me:
-👋🏽 Hi, my name is Naren (pronounced 'nah-rain').
+Dev(Sec)Ops Engineer & SRE, a self-starter, and a hands-on leader who loves technology. Like to learn something new every day.
 
-🌇 Based in Ottawa, with a passion for anything that is fast-paced and that allows for creative and innovative thinking.
+- Check out my [website](https://portfolio-bf3e6.firebaseapp.com/) to learn more about me. 
+ 
+## 📦 Toolbox
 
-📚 I have collected about 2 years of engineering work experience in the fields of cloud computing, networking, software development, testing, project management, wired and wireless communications. I am always looking for new challenges and experiences, and to learn new things.
+**Programming Language:** `Python` `JavaScript/Node.js` `Go` `Bash Scripting`
 
-## 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+**AIOps:** `Splunk` `Kibana` `New Relic` `Grafana` `Elastic ELK Stack`
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NarenAnandan&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NarenAnandan&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NarenAnandan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+**Artifact/Package Management:** `DockerHub` `Npm` `Artifactory`
+
+**Configuration Management:** `Ansible` `Terraform` `AWS Cloud Formation` 
+
+**Container Orchestration:** `Docker` `Kubernetes` `AWS EKS` `AWS ECS` `Google GKE` `Helm`
+
+**Continuous Integration:** `Jenkins` `Azure DevOps` `GitLab CI` `Circle CI` `Maven` `GitHub Actions` `AWS CodeBuild`
+
+**Continuous Delivery/Deployment:** `Spinnaker` `AWS CodeDeploy`
+
+**Service Management:** `PagerDuty` `ServiceNow`
+
+**PaaS/Container Service:** `AWS Lambda` `Cloud Foundry` `Google Firebase`
+
+**Public Cloud:** `Azure` `AWS` `GCP` `OpenStack`
+
+**Release Management:** `AWS CodePipeline`
+
+**Security:** `OWASP ZAP` `Snyk` `SonarQube` `Vault`
+
+**Source Control Management:** `Git` `GitHub` `GitLab` `BitBucket`
+
+**Testing:** `Selenium` `JUnit` `Cucumber` `JMeter`
+
+## ✨ Fun Facts 
+
+- Linux is better OS.
+- Not all organizations need k8s.
+- Bash scripting is underrated.
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/narenanandan/).
