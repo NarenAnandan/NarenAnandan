@@ -36,7 +36,7 @@ Dev(Sec)Ops Engineer & SRE, a self-starter, and a hands-on leader who loves tech
 
 ## ✨ Fun Facts 
 
-- Linux is better OS.
+- Linux is better.
 - Not all organizations need k8s.
 - Bash scripting is underrated.
 
