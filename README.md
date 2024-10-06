@@ -2,7 +2,7 @@
 
 Dev(Sec)Ops Engineer & SRE, a self-starter, and a hands-on leader who loves technology. Like to learn something new every day.
 
-- Check out my [website](https://portfolio-bf3e6.firebaseapp.com/) to learn more about me. 
+- Check out my [website](https://narenanandan.com/) to learn more about me. 
  
 ## 📦 Toolbox
 
